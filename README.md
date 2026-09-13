@@ -1,2 +1,6 @@
 # chihlee_gemini
 chihlee_gemini_class testtesttest0809
+
+Host pi5javert0704
+  HostName pi5javert0704
+  User pi
